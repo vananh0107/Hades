@@ -1,0 +1,73 @@
+let data = [
+  {
+    name: [
+      "ENERGETIC PANT",
+      "HIGHER-UP PANT",
+      "CABINET BONE SHORT",
+      "GARNITURE BLACK SHORT",
+      "SUNDRY PANT",
+      "INFERIO SHORT",
+      "LORRYLOAD CARGO SHORT",
+      "CARDINALS SHORT",
+    ],
+    price: [
+      "190000₫",
+      "250000₫",
+      "534000₫",
+      "260000₫",
+      "251000₫",
+      "356000₫",
+      "220000₫",
+      "340000₫",
+    ],
+    quantity: [46, 28, 15, 27, 39, 48, 34, 19],
+  },
+  {
+    name: [
+      "INHUMAN HOODIE",
+      "WAY ON CLUOD HOODIE",
+      "WILDCAT SWEATER",
+      "CARREAUX HOODIE",
+      "WATER SPLAH HOODIE",
+      "MONOGRAM CARDIGAN",
+      "CONCRETE TIEDYE SWEATER",
+      "SNIPER SCOPE HOODIE",
+    ],
+    price: [
+      "289000₫",
+      "399000₫",
+      "199000₫",
+      "280000₫",
+      "380000₫",
+      "400000₫",
+      "599000₫",
+      "320000₫",
+    ],
+    quantity: [19, 19, 27, 49, 40, 53, 61, 19],
+  },
+  {
+    name: [
+      "LEOPARD POLO",
+      "SHIP ON YOUR TEE",
+      "MAKE TEE",
+      "RIOT MEO TEE",
+      "THE CROWORS TEE",
+      "CLAMOROUS GILE",
+      "GLOSSY TEE",
+      "LONG SLEEVE WEATER",
+    ],
+    price: [
+      "270000₫",
+      "380000₫",
+      "499000₫",
+      "280000₫",
+      "350000₫",
+      "199000₫",
+      "270000₫",
+      "330000₫",
+    ],
+    quantity: [26, 18, 13, 59, 56, 69, 49, 44],
+  },
+];
+let admin=
+{"email":"buivananh@gmail.com","password":"123456","fullname":"Admin","orders":[{"code":"1887908","date":"19/02/2023","priceTotal":1978000,"order":[{"name":"MONOGRAM CARDIGAN","price":"400000₫","quantity":"1"},{"name":"WATER SPLAH HOODIE","price":"380000₫","quantity":"1"},{"name":"CONCRETE TIEDYE SWEATER","price":"599000₫","quantity":"2"}],"infor":{"fullname":"Dang Tuyn","email":"supermu727@gmail.com","phone":"1243124332","location":"Ha Noi"}},{"code":"3541085","date":"20/02/2023","priceTotal":849000,"order":[{"name":"INHUMAN HOODIE","price":"289000₫","quantity":"1"},{"name":"CARREAUX HOODIE","price":"280000₫","quantity":"2"}],"infor":{"fullname":"Van Anh","email":"buivananh01072003@gmail.com","phone":"1243124332","location":"Ha Noi"}},{"code":"8787375","date":"20/02/2023","priceTotal":440000,"order":[{"name":"HIGHER-UP PANT","price":"250000₫","quantity":"1"},{"name":"ENERGETIC PANT","price":"190000₫","quantity":"1"}],"infor":{"fullname":"Thuy Linh","email":"thuylinh@gmail.com","phone":"1243124332","location":"Ha Noi"}},{"code":"1783780","infor":{"fullname":"Quynh Chi","email":"quynhchi@gmail.com","phone":"031481135335","location":"Hai Phong"},"priceTotal":576000,"order":[{"name":"LORRYLOAD CARGO SHORT","price":"220000₫","quantity":"1"},{"name":"INFERIO SHORT","price":"356000₫","quantity":"1"}],"date":"20/02/2023"},{"code":"8345872","date":"20/02/2023","priceTotal":2457000,"order":[{"name":"ENERGETIC PANT","price":"190000₫","quantity":"2"},{"name":"RIOT MEO TEE","price":"280000₫","quantity":"1"},{"name":"CONCRETE TIEDYE SWEATER","price":"599000₫","quantity":"2"},{"name":"MONOGRAM CARDIGAN","price":"400000₫","quantity":"1"},{"name":"CLAMOROUS GILE","price":"199000₫","quantity":"1"}],"infor":{"fullname":"Tuan Anh","email":"tuananh@gmail.com","phone":"16316855665","location":"Da Nang"}},{"code":"5211745","date":"20/02/2023","priceTotal":380000,"order":[{"name":"ENERGETIC PANT","price":"190000₫","quantity":"2"}],"infor":{"fullname":"Van Hieu","email":"vanhieu@gmail.com","phone":"63186156186","location":"Ha Tinh"}},{"code":"5870764","date":"20/02/2023","priceTotal":560000,"order":[{"name":"CARREAUX HOODIE","price":"280000₫","quantity":"2"}],"infor":{"fullname":"Nguyen Duc","email":"nguyenduc@gmail.com","phone":"06168168168","location":"Lang Son"}},{"code":"3351887","date":"20/02/2023","priceTotal":920000,"order":[{"name":"ENERGETIC PANT","price":"200000₫","quantity":"2"},{"name":"LEOPARD POLO","price":"260000₫","quantity":"2"}],"infor":{"fullname":"Huy Thang","email":"huythang@gmail.com","phone":"0684684864","location":"Quang Ninh"}},{"code":"7659911","date":"21/02/2023","priceTotal":776000,"order":[{"name":"ENERGETIC PANT","price":"200000₫","quantity":"1"},{"name":"LORRYLOAD CARGO SHORT","price":"220000₫","quantity":"1"},{"name":"INFERIO SHORT","price":"356000₫","quantity":"1"}],"infor":{"fullname":"Phuong Thao","email":"phuongthao@gmail.com","phone":"0161616181","location":"Ninh Binh"}}]}
